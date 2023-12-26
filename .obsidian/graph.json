@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#vulnerability  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#service  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1.478125,
+  "collapse-forces": true,
+  "centerStrength": 0.109375,
+  "repelStrength": 13.75,
+  "linkStrength": 0.651041666666667,
+  "linkDistance": 250,
+  "scale": 0.13168724279835334,
+  "close": true
+}
