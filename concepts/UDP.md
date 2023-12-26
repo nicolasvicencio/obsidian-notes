@@ -1,0 +1,5 @@
+- UDP or User Datagram Protocol, is a connections less and lightweight transport layer protocol that provides a simple and minimalist way to transmit data between devices on a network.
+- UP does not establish a connection before sending data and does not proved the same level of reliability and ordering guaranties Instead, it focuses on simplicity and efficiency, making it suitable for certain types of applications
+- Used to Real-Time Applications: UDP is commonly used in real-time applications where low latency is crucial such as audio and video streaming. online gaming, and voice-over-IP (VoIP) communication.
+- Simple and Stateless, meaning that it does not maintain any state information about the communication
+- Each packet is dependent of previous or future packets

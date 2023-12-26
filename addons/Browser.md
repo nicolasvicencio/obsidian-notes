@@ -1,0 +1,3 @@
+- Wappalyzer [chrome](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)[firefox]( https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- Builwith [chrome](https://chromewebstore.google.com/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn)[firefox](https://addons.mozilla.org/en-US/firefox/addon/builtwith/)
+- FoxyProxy [chrome](https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp) [firefox](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)

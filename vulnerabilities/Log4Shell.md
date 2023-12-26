@@ -1,0 +1,3 @@
+#vulnerability
+
+Log4Shell is a Java Naming and Directory Interface™ (JNDI) injection vulnerability which can allow remote code execution (RCE). By including untrusted data (such as malicious payloads) in the logged message in an affected Apache Log4j version, an attacker can establish a connection to a malicious server via JNDI lookup. The result: full access to your system from anywhere in the world.

@@ -1,0 +1,3 @@
+- Is the process of enumerating [[DNS Records]]DNS records for a specific domains.
+- The objective of DNS interrogations is to probe a DNS server to provide us with DNS records for a specific domain.
+- This process can provide with important information like the IP address of a domain, subdomains, mail server address, etc.
