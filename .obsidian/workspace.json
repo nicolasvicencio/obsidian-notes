@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/psexec.py.md",
+                "file": "metodology/Privilege Escalation - Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893863fa31bc5d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows Password Hashes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/psexec.py.md",
+                "file": "Windows Password Hashes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/psexec.py.md",
+                "file": "Windows Password Hashes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/psexec.py.md"
+                "file": "Windows Password Hashes.md"
               }
             }
           }
@@ -160,17 +172,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aff7396411e16221",
+  "active": "893863fa31bc5d36",
   "lastOpenFiles": [
-    "tools/metasploit.md",
+    "metodology/Privilege Escalation - Windows.md",
+    "Windows Password Hashes.md",
+    "vulnerabilities/ADS - Alternate Data Stream.md",
+    "vulnerabilities/Untitled.md",
+    "tools/meterpreter.md",
     "tools/psexec.py.md",
+    "tools/whatweb.md",
+    "tools/metasploit.md",
     "services/445 - SMB.md",
     "tools/cadaver.md",
     "tools/davtest.md",
     "services/{80;443} - WebDav.md",
     "resources/Frequently Exploited Windows Services.md",
     "assets/Pasted image 20231226122748.png",
-    "tools/whatweb.md",
     "tools/whois.md",
     "tools/wpscan.md",
     "tools/shred.md",
@@ -184,11 +201,6 @@
     "tools/gobuster.md",
     "tools/fierce.md",
     "tools/dirb.md",
-    "tools/dirbuster.md",
-    "tools/dnsenum.md",
-    "tools/dnsrecon.md",
-    "concepts/DNS Zone transfer.md",
-    "concepts/DNS interrogation.md",
     "metodology/Scanning Network Mapping.png",
     "metodology/Penetration Testing Methodology.png",
     "services",
