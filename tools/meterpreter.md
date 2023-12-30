@@ -17,3 +17,5 @@
 `load incognito` load incognito mode
 
 `load_tokens -u` list access tokens
+
+`search -f Unattend.xml` search file

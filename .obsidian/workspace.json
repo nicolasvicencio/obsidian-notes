@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1cd014156a58f842",
+        "id": "9cc8442f45183c87",
         "type": "tabs",
         "children": [
           {
-            "id": "7315f677944b2186",
+            "id": "c7de86293825b276",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/whatweb.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff7396411e16221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metodology/Privilege Escalation - Windows.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "893863fa31bc5d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows Password Hashes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Password Hashes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Password Hashes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Windows Password Hashes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -172,16 +139,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "893863fa31bc5d36",
+  "active": "c7de86293825b276",
   "lastOpenFiles": [
-    "metodology/Privilege Escalation - Windows.md",
-    "Windows Password Hashes.md",
-    "vulnerabilities/ADS - Alternate Data Stream.md",
-    "vulnerabilities/Untitled.md",
-    "tools/meterpreter.md",
-    "tools/psexec.py.md",
+    "tools/evil-winrm.md",
+    "vulnerabilities/Pass-The-Hash.md",
+    "tools/crackmapexec.md",
     "tools/whatweb.md",
+    "metodology/Privilege Escalation - Windows.md",
+    "tools/mimikatz.md",
     "tools/metasploit.md",
+    "tools/psexec.py.md",
+    "vulnerabilities/Windows Configuration Files.md",
+    "tools/meterpreter.md",
+    "utilities/Python Server.md",
+    "concepts/Windows Password Hashes.md",
+    "metodology/Penetration Testing Methodology.png",
+    "vulnerabilities/ADS - Alternate Data Stream.md",
     "services/445 - SMB.md",
     "tools/cadaver.md",
     "tools/davtest.md",
@@ -196,13 +169,7 @@
     "tools/nmblookup.md",
     "tools/nmap.md",
     "tools/lynx.md",
-    "tools/netcat.md",
-    "tools/fping.md",
-    "tools/gobuster.md",
-    "tools/fierce.md",
-    "tools/dirb.md",
     "metodology/Scanning Network Mapping.png",
-    "metodology/Penetration Testing Methodology.png",
     "services",
     "assets/Pasted image 20231221104550.png",
     "assets/Pasted image 20231220201534.png",
