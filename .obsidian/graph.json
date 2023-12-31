@@ -18,7 +18,7 @@
       "query": "tag:#service  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 5431406
       }
     },
     {
@@ -26,6 +26,13 @@
       "color": {
         "a": 1,
         "rgb": 5075199
+      }
+    },
+    {
+      "query": "tag:#linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711901
       }
     }
   ],
@@ -39,6 +46,6 @@
   "repelStrength": 13.75,
   "linkStrength": 0.651041666666667,
   "linkDistance": 250,
-  "scale": 0.19753086419752997,
+  "scale": 0.2962962962962947,
   "close": true
 }

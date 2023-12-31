@@ -1,6 +1,6 @@
 #cracker 
 
-[[445 - SMB]]
+[[445 - SMB-SAMBA]]
 
 Impacket’s psexec.py offers psexec like functionality. This will give you an interactive shell on the Windows host.
 

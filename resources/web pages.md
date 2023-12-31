@@ -8,3 +8,4 @@
 - https://exploit-db.com
 - https://cve.mitre.org
 - https://nvd.nist.gov
+- https://owasp.org/www-project-top-ten/
