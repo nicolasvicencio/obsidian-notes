@@ -11,6 +11,9 @@ smbclient -L <ip_address> -N
 `-U` user
 
 ```bash
-smbclient //192.190.242.3/Public -N
+smbclient //192.190.242.3/Public -U <user>
 ```
+
 With "get" we can pass the shared files to our system
+
+

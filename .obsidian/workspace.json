@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "d84006b1f91e60de",
+        "id": "d8793e7f030c3ec8",
         "type": "tabs",
         "children": [
           {
-            "id": "a532dbc5e7c9fc7f",
+            "id": "a6538c44139ae8e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/22 - SSH ( Secure Shell ).md",
+                "file": "tools/metasploit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60a6347e8d541eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/sendemail.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vulnerability",
+                "query": "metas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c199ef4cc0bd087",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "services/22 - SSH ( Secure Shell ).md",
+                "file": "tools/metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "services/22 - SSH ( Secure Shell ).md",
+                "file": "tools/metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services/22 - SSH ( Secure Shell ).md"
+                "file": "tools/metasploit.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,35 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a532dbc5e7c9fc7f",
+  "active": "a6538c44139ae8e6",
   "lastOpenFiles": [
-    "vulnerabilities/Windows Configuration Files.md",
-    "vulnerabilities/ShellShock.md",
-    "vulnerabilities/Pass-The-Hash.md",
-    "vulnerabilities/Log4Shell.md",
-    "vulnerabilities/Heartbleed.md",
-    "vulnerabilities/EternalBlue.md",
-    "vulnerabilities/ADS - Alternate Data Stream.md",
-    "services/22 - SSH ( Secure Shell ).md",
-    "services/3306 - MYSQL.md",
-    "services/1433 - MSSQL.md",
-    "services/445 - SMB-SAMBA.md",
-    "services/137-138-139 - NetBios.md",
-    "services/80 - HTTP.md",
-    "services/21 - FTP.md",
-    "services/{80;443} - WebDav.md",
-    "resources/web pages.md",
-    "tools/netcat.md",
-    "metodology/Privilege Escalation - Windows.md",
-    "metodology/Penetration Testing Methodology.png",
-    "tools/browsh.md",
-    "tools/davtest.md",
-    "tools/evil-winrm.md",
-    "tools/crackmapexec.md",
-    "tools/whatweb.md",
-    "tools/mimikatz.md",
+    "tools/sendemail.md",
+    "tools/smtp-user-enum.md",
+    "services/25 - SMTP.md",
     "tools/metasploit.md",
-    "tools/psexec.py.md",
+    "utilities/Bash script to scan ports.md",
+    "tools/smbclient.md",
+    "services/3306 - MYSQL.md",
+    "tools/tshark.md",
+    "tools/theHarvester.md",
+    "tools/shred.md",
+    "tools/arpspoof.md",
+    "tools/browsh.md",
+    "tools/cadaver.md",
+    "vulnerabilities/ARP Poisoning.md",
+    "services/23 - Telnet.md",
+    "metodology/Privilege Escalation - Linux.md",
+    "metodology/Privilege Escalation - Windows.md",
+    "metodology/Windows Password Hashes.md",
+    "metodology/Linux Password Hashes.md",
+    "resources/Frequently Exploited Windows Services.md",
+    "utilities/Find SUID files.md",
+    "utilities/Find if a file its been used anywhere.md",
+    "utilities/IP personal.md",
+    "utilities/Google Dorks.md",
+    "services/22 - SSH ( Secure Shell ).md",
+    "vulnerabilities/Windows Configuration Files.md",
+    "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
     "services",
