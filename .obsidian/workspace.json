@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8793e7f030c3ec8",
+        "id": "4dc3a85f3112dc24",
         "type": "tabs",
         "children": [
           {
-            "id": "a6538c44139ae8e6",
+            "id": "ea2ac35594291dd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/metasploit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60a6347e8d541eae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/sendemail.md",
+                "file": "services/23 - Telnet.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/metasploit.md",
+                "file": "services/23 - Telnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/metasploit.md",
+                "file": "services/23 - Telnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/metasploit.md"
+                "file": "services/23 - Telnet.md"
               }
             }
           }
@@ -159,12 +147,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6538c44139ae8e6",
+  "active": "ea2ac35594291dd2",
   "lastOpenFiles": [
-    "tools/sendemail.md",
-    "tools/smtp-user-enum.md",
     "services/25 - SMTP.md",
+    "services/80-443 - WebDav.md",
+    "services/5985-5986 - WinRM.md",
+    "services/8080 - Apache Tomcat.md",
     "tools/metasploit.md",
+    "tools/sendemail.md",
+    "tools/msfvenom.md",
+    "tools/wmap.md",
+    "tools/Nessus.md",
+    "tools/smtp-user-enum.md",
     "utilities/Bash script to scan ports.md",
     "tools/smbclient.md",
     "services/3306 - MYSQL.md",
@@ -181,12 +175,6 @@
     "metodology/Windows Password Hashes.md",
     "metodology/Linux Password Hashes.md",
     "resources/Frequently Exploited Windows Services.md",
-    "utilities/Find SUID files.md",
-    "utilities/Find if a file its been used anywhere.md",
-    "utilities/IP personal.md",
-    "utilities/Google Dorks.md",
-    "services/22 - SSH ( Secure Shell ).md",
-    "vulnerabilities/Windows Configuration Files.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",

