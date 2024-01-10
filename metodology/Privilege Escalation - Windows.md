@@ -24,6 +24,8 @@ A non-privileged user attempting to execute a program with elevated privileges w
 
 In order to succesfully bypass UAC, we will need to have access to a user account that is a part of the local administrators group on the windows target system.
 
+We can utilize the Windows Escalate UAC Protection Bypass ( In Memory Injection) module to bypass UAC by utilizing the trusted publisher certificate through process injection. It will spawn a second shell that has the UAC flag turned off.
+
 https://github.com/hfiref0x/UACME
 
 ### Windows Access Tokens

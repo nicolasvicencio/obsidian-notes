@@ -6,7 +6,9 @@ SSH authentication can be configured in two ways
 - Username & password authentication
 - Key based authentication
 
+libssh is a multiplatform C library implementing the SSHv2 protocol on client and server side
 
+libssh V0.6.0-0.8.0 in vulnerable to a n authentication bypass vulnerability in the libsssh server code that can be exploited to execute commands on the target server
 ## Usage
 ```bash
 ssh root@<ip_address> 

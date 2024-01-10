@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "services/23 - Telnet.md",
+                "file": "metodology/Privilege Escalation - Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metas",
+                "query": "uac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "services/23 - Telnet.md",
+                "file": "metodology/Privilege Escalation - Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "services/23 - Telnet.md",
+                "file": "metodology/Privilege Escalation - Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "services/23 - Telnet.md"
+                "file": "metodology/Privilege Escalation - Windows.md"
               }
             }
           }
@@ -149,7 +149,15 @@
   },
   "active": "ea2ac35594291dd2",
   "lastOpenFiles": [
+    "utilities/Windows commands.md",
+    "metodology/Privilege Escalation - Windows.md",
+    "tools/meterpreter.md",
+    "services/445 - SMB-SAMBA.md",
     "services/25 - SMTP.md",
+    "services/22 - SSH ( Secure Shell ).md",
+    "tools/nmap.md",
+    "services/137-138-139 - NetBios.md",
+    "services/23 - Telnet.md",
     "services/80-443 - WebDav.md",
     "services/5985-5986 - WinRM.md",
     "services/8080 - Apache Tomcat.md",
@@ -167,14 +175,6 @@
     "tools/shred.md",
     "tools/arpspoof.md",
     "tools/browsh.md",
-    "tools/cadaver.md",
-    "vulnerabilities/ARP Poisoning.md",
-    "services/23 - Telnet.md",
-    "metodology/Privilege Escalation - Linux.md",
-    "metodology/Privilege Escalation - Windows.md",
-    "metodology/Windows Password Hashes.md",
-    "metodology/Linux Password Hashes.md",
-    "resources/Frequently Exploited Windows Services.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
