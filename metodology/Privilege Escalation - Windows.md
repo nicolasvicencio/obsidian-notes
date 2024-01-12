@@ -48,3 +48,19 @@ Delegate-level tokens pose the largest threat as they can be used to impersonate
 - **SeAddignPrimaryToken** This allow a user to impersonate tokens.
 - **SeCreateToken** This allow a user to create an arbitrary token with administrative privileges
 - **SeImpersonatePrivilege** This allows a user to create a process under the security context of another user typically with administrative privileges.
+
+In metasploit you can 
+`load incognito`
+`list_tokens -u `
+`impersonate_token "<token_name>"`
+
+
+### [[mimikatz]]
+
+Mimikats is a Windows post-exploitation tool, It allows for the extraction of plain text credentials from memory, password hashes from local SAM databases, and more
+
+We can use the pre-build mimikatz executable alternatively, if we have access to a meterpreter session on a Windows target, we can utilize the inbuilt meterpreter extension Kiwi
+
+`load kiwi`
+
+
