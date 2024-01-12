@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md",
+                "file": "metodology/Privilege Escalation - Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shre",
+                "query": "post exploitation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md",
+                "file": "metodology/Privilege Escalation - Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md",
+                "file": "metodology/Privilege Escalation - Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md"
+                "file": "metodology/Privilege Escalation - Linux.md"
               }
             }
           }
@@ -147,22 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea2ac35594291dd2",
+  "active": "4e292efde9f4411f",
   "lastOpenFiles": [
-    "metodology/Linux Password Hashes.md",
-    "metodology/Privilege Escalation - Windows.md",
-    "metodology/Windows Password Hashes.md",
-    "metodology/Linux Post exploitation modules.md",
     "vulnerabilities/Pivoting.md",
-    "tools/shred.md",
-    "metodology/Clearing Windows event logs.md",
     "vulnerabilities/Keyloggin.md",
-    "services/3389 - RDP.md",
-    "services/8080 - Apache Tomcat.md",
     "tools/xfreerdp.md",
+    "services/3389 - RDP.md",
     "metodology/Persistence Windows.md",
-    "metodology/Privilege Escalation - Linux.md",
-    "addons/Browser.md",
+    "metodology/Linux Post exploitation modules.md",
+    "metodology/Clearing Windows event logs.md",
+    "metodology/Privilege Escalation - Windows.md",
     "utilities/Windows commands.md",
     "tools/meterpreter.md",
     "services/445 - SMB-SAMBA.md",
@@ -173,8 +167,14 @@
     "services/23 - Telnet.md",
     "services/80-443 - WebDav.md",
     "services/5985-5986 - WinRM.md",
+    "services/8080 - Apache Tomcat.md",
     "tools/metasploit.md",
     "tools/sendemail.md",
+    "tools/msfvenom.md",
+    "tools/wmap.md",
+    "tools/Nessus.md",
+    "tools/smtp-user-enum.md",
+    "utilities/Bash script to scan ports.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
