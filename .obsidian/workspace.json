@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metodology/Privilege Escalation - Windows.md",
+                "file": "metodology/Linux Post exploitation modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "uac",
+                "query": "shre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metodology/Privilege Escalation - Windows.md",
+                "file": "metodology/Linux Post exploitation modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metodology/Privilege Escalation - Windows.md",
+                "file": "metodology/Linux Post exploitation modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metodology/Privilege Escalation - Windows.md"
+                "file": "metodology/Linux Post exploitation modules.md"
               }
             }
           }
@@ -149,8 +149,21 @@
   },
   "active": "ea2ac35594291dd2",
   "lastOpenFiles": [
-    "utilities/Windows commands.md",
+    "metodology/Linux Password Hashes.md",
     "metodology/Privilege Escalation - Windows.md",
+    "metodology/Windows Password Hashes.md",
+    "metodology/Linux Post exploitation modules.md",
+    "vulnerabilities/Pivoting.md",
+    "tools/shred.md",
+    "metodology/Clearing Windows event logs.md",
+    "vulnerabilities/Keyloggin.md",
+    "services/3389 - RDP.md",
+    "services/8080 - Apache Tomcat.md",
+    "tools/xfreerdp.md",
+    "metodology/Persistence Windows.md",
+    "metodology/Privilege Escalation - Linux.md",
+    "addons/Browser.md",
+    "utilities/Windows commands.md",
     "tools/meterpreter.md",
     "services/445 - SMB-SAMBA.md",
     "services/25 - SMTP.md",
@@ -160,21 +173,8 @@
     "services/23 - Telnet.md",
     "services/80-443 - WebDav.md",
     "services/5985-5986 - WinRM.md",
-    "services/8080 - Apache Tomcat.md",
     "tools/metasploit.md",
     "tools/sendemail.md",
-    "tools/msfvenom.md",
-    "tools/wmap.md",
-    "tools/Nessus.md",
-    "tools/smtp-user-enum.md",
-    "utilities/Bash script to scan ports.md",
-    "tools/smbclient.md",
-    "services/3306 - MYSQL.md",
-    "tools/tshark.md",
-    "tools/theHarvester.md",
-    "tools/shred.md",
-    "tools/arpspoof.md",
-    "tools/browsh.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
