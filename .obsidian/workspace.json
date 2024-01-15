@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/searchesploit.md",
+                "file": "tools/PowerShell-Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "post exploit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c199ef4cc0bd087",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/searchesploit.md",
+                "file": "tools/PowerShell-Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/searchesploit.md",
+                "file": "tools/PowerShell-Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/searchesploit.md"
+                "file": "tools/PowerShell-Empire.md"
               }
             }
           }
@@ -163,8 +162,18 @@
   },
   "active": "e6ec1af75d6cadbc",
   "lastOpenFiles": [
-    "metodology/Banner grabbing.md",
+    "resources/Repos.md",
+    "tools/PowerShell-Empire.md",
+    "resources/Web Pages.md",
+    "resources/Frequently Exploited Windows Services.md",
+    "concepts/Reverse Shell.md",
+    "concepts/Bind Shell.md",
+    "utilities/Windows commands.md",
+    "tools/netcat.md",
+    "utilities/Python Server.md",
+    "utilities/Compile C code.md",
     "tools/searchesploit.md",
+    "metodology/Banner grabbing.md",
     "tools/nmap.md",
     "tools/armitage.md",
     "metodology/Persistence Linux.md",
@@ -177,18 +186,8 @@
     "metodology/Persistence Windows.md",
     "metodology/Clearing Windows event logs.md",
     "metodology/Privilege Escalation - Windows.md",
-    "utilities/Windows commands.md",
     "tools/meterpreter.md",
     "services/445 - SMB-SAMBA.md",
-    "services/25 - SMTP.md",
-    "services/22 - SSH ( Secure Shell ).md",
-    "services/137-138-139 - NetBios.md",
-    "services/23 - Telnet.md",
-    "services/80-443 - WebDav.md",
-    "services/5985-5986 - WinRM.md",
-    "services/8080 - Apache Tomcat.md",
-    "tools/metasploit.md",
-    "tools/sendemail.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
