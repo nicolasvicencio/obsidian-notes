@@ -11,8 +11,12 @@
             "id": "31c0333ede9d3a12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "vulnerabilities/PHP Type Juggling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c199ef4cc0bd087",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "vulnerabilities/PHP Type Juggling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "vulnerabilities/PHP Type Juggling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "vulnerabilities/PHP Type Juggling.md"
+              }
             }
           }
         ],
@@ -142,36 +149,37 @@
   },
   "active": "31c0333ede9d3a12",
   "lastOpenFiles": [
+    "machines/IMF/Reconnaissance.md",
+    "vulnerabilities/PHP Type Juggling.md",
+    "tools/nmap.md",
+    "tools/enum4linux.md",
+    "machines/pwnlab/Untitled.md",
+    "machines/IMF",
     "tools/armitage.md",
-    "tools/nikto.md",
+    "machines/pwnlab",
+    "tools/netcat.md",
+    "resources/Web Pages.md",
+    "metodology/Linux Post exploitation modules.md",
+    "utilities/tty threatment.md",
+    "utilities/Find SUID files.md",
+    "utilities/Find if a file its been used anywhere.md",
+    "utilities/Compile C code.md",
+    "utilities/Bash script to scan ports.md",
+    "utilities/Python Server.md",
+    "utilities/IP personal.md",
+    "vulnerabilities/LFI.md",
+    "tools/hydra.md",
     "services/3306 - MYSQL.md",
+    "tools/nikto.md",
     "tools/Untitled",
     "tools/hashcat.md",
     "tools/theHarvester.md",
     "tools/wmap.md",
-    "tools/nmap.md",
     "services/21 - FTP.md",
     "machines/Stapler/Users.md",
-    "tools/hydra.md",
-    "machines/Stapler/Untitled",
     "machines/Stapler",
     "machines",
     "tools/PowerShell-Empire.md",
-    "resources/Repos.md",
-    "resources/Web Pages.md",
-    "resources/Frequently Exploited Windows Services.md",
-    "concepts/Reverse Shell.md",
-    "concepts/Bind Shell.md",
-    "utilities/Windows commands.md",
-    "tools/netcat.md",
-    "utilities/Python Server.md",
-    "utilities/Compile C code.md",
-    "tools/searchesploit.md",
-    "metodology/Banner grabbing.md",
-    "metodology/Persistence Linux.md",
-    "metodology/Linux Post exploitation modules.md",
-    "metodology/Privilege Escalation - Linux.md",
-    "vulnerabilities/Pivoting.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
@@ -183,7 +191,6 @@
     "assets",
     "metodology",
     "tools",
-    "concepts",
-    "utilities"
+    "concepts"
   ]
 }
