@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnerabilities/PHP Type Juggling.md",
+                "file": "utilities/Windows commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "5c199ef4cc0bd087",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vulnerabilities/PHP Type Juggling.md",
+                "file": "utilities/Windows commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vulnerabilities/PHP Type Juggling.md",
+                "file": "utilities/Windows commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vulnerabilities/PHP Type Juggling.md"
+                "file": "utilities/Windows commands.md"
               }
             }
           }
@@ -149,8 +150,18 @@
   },
   "active": "31c0333ede9d3a12",
   "lastOpenFiles": [
-    "machines/IMF/Reconnaissance.md",
+    "metodology/Post-Exploitation Methodology.md",
+    "utilities/Windows commands.md",
+    "metodology/Post-Exploitation Methodology.png",
+    "metodology/Persistence Windows.md",
+    "metodology/Linux Post exploitation modules.md",
+    "vulnerabilities/LFI.md",
+    "tools/Invoke-obfuscation.md",
+    "metodology/AV Detection Methods.md",
+    "tools/shellter.md",
+    "services/21 - FTP.md",
     "vulnerabilities/PHP Type Juggling.md",
+    "machines/IMF/Reconnaissance.md",
     "tools/nmap.md",
     "tools/enum4linux.md",
     "machines/pwnlab/Untitled.md",
@@ -159,7 +170,6 @@
     "machines/pwnlab",
     "tools/netcat.md",
     "resources/Web Pages.md",
-    "metodology/Linux Post exploitation modules.md",
     "utilities/tty threatment.md",
     "utilities/Find SUID files.md",
     "utilities/Find if a file its been used anywhere.md",
@@ -167,19 +177,11 @@
     "utilities/Bash script to scan ports.md",
     "utilities/Python Server.md",
     "utilities/IP personal.md",
-    "vulnerabilities/LFI.md",
     "tools/hydra.md",
     "services/3306 - MYSQL.md",
-    "tools/nikto.md",
     "tools/Untitled",
-    "tools/hashcat.md",
-    "tools/theHarvester.md",
-    "tools/wmap.md",
-    "services/21 - FTP.md",
-    "machines/Stapler/Users.md",
     "machines/Stapler",
     "machines",
-    "tools/PowerShell-Empire.md",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
