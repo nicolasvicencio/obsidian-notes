@@ -10,3 +10,4 @@
 - https://nvd.nist.gov
 - https://owasp.org/www-project-top-ten/
 - https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+- https://phonebook.cz

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilities/Windows commands.md",
+                "file": "tools/crunch.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reverse shel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utilities/Windows commands.md",
+                "file": "tools/crunch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utilities/Windows commands.md",
+                "file": "tools/crunch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utilities/Windows commands.md"
+                "file": "tools/crunch.md"
               }
             }
           }
@@ -148,10 +148,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31c0333ede9d3a12",
+  "active": "4e292efde9f4411f",
   "lastOpenFiles": [
-    "metodology/Post-Exploitation Methodology.md",
+    "tools/maskprocessor.md",
+    "tools/crunch.md",
+    "machines/rickdiculouslyeasy/Users.md",
+    "machines/rickdiculouslyeasy/Reconnosainse.md",
+    "utilities/tty threatment.md",
+    "tools/netcat.md",
+    "tools/gobuster.md",
+    "tools/dirbuster.md",
+    "vulnerabilities/ShellShock.md",
+    "machines/rickdiculouslyeasy",
+    "tools/netdiscover.md",
+    "resources/Web Pages.md",
     "utilities/Windows commands.md",
+    "metodology/Post-Exploitation Methodology.md",
     "metodology/Post-Exploitation Methodology.png",
     "metodology/Persistence Windows.md",
     "metodology/Linux Post exploitation modules.md",
@@ -168,17 +180,6 @@
     "machines/IMF",
     "tools/armitage.md",
     "machines/pwnlab",
-    "tools/netcat.md",
-    "resources/Web Pages.md",
-    "utilities/tty threatment.md",
-    "utilities/Find SUID files.md",
-    "utilities/Find if a file its been used anywhere.md",
-    "utilities/Compile C code.md",
-    "utilities/Bash script to scan ports.md",
-    "utilities/Python Server.md",
-    "utilities/IP personal.md",
-    "tools/hydra.md",
-    "services/3306 - MYSQL.md",
     "tools/Untitled",
     "machines/Stapler",
     "machines",
@@ -192,7 +193,6 @@
     "Pasted image 20231220201441.png",
     "assets",
     "metodology",
-    "tools",
-    "concepts"
+    "tools"
   ]
 }
