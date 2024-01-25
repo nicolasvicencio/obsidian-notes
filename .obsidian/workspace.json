@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilities/Transfer files via SSH.md",
+                "file": "utilities/Compile C code.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverse shel",
+                "query": "steg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utilities/Transfer files via SSH.md",
+                "file": "utilities/Compile C code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utilities/Transfer files via SSH.md",
+                "file": "utilities/Compile C code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utilities/Transfer files via SSH.md"
+                "file": "utilities/Compile C code.md"
               }
             }
           }
@@ -149,14 +149,29 @@
   },
   "active": "31c0333ede9d3a12",
   "lastOpenFiles": [
-    "metodology/Linux Post exploitation modules.md",
+    "addons/Browser.md",
+    "machines/picklerick",
+    "tools/steghide.md",
+    "machines/galahad/Walkthrough.md",
+    "machines/basicpentesting/Walkthroug.md",
+    "machines/vulnversity/Walkthrough.md",
+    "machines/basicpentesting",
+    "tools/LinEnum.md",
+    "tools/enum4linux.md",
+    "services/445 - SMB-SAMBA.md",
+    "tools/smbclient.md",
+    "tools/smbmap.md",
+    "utilities/tty threatment.md",
+    "utilities/Find SUID files.md",
+    "machines/vulnversity/assets",
+    "machines/vulnversity/assets/Pasted image 20240123140719.png",
     "utilities/Transfer files via SSH.md",
+    "machines/vulnversity",
+    "metodology/Linux Post exploitation modules.md",
     "metodology/Post-Exploitation Methodology.md",
     "tools/openssl.md",
-    "utilities/Find SUID files.md",
     "utilities/Find if a file its been used anywhere.md",
     "utilities/Windows commands.md",
-    "utilities/tty threatment.md",
     "utilities/Python Server.md",
     "tools/shellter.md",
     "tools/searchesploit.md",
@@ -165,7 +180,6 @@
     "tools/netcat.md",
     "machines/bob/assets/Pasted image 20240121135242.png",
     "machines/bob/assets/Pasted image 20240121135036.png",
-    "machines/galahad/Walkthrough.md",
     "machines/galahad/assets",
     "machines/bob/assets",
     "machines/bob",
@@ -176,24 +190,10 @@
     "machines/galahad/assets/Pasted image 20240121122604.png",
     "machines/rickdiculouslyeasy/Reconnosainse.md",
     "machines/galahad",
-    "tools/steghide.md",
     "metodology/2 - Active information gattering.md",
-    "metodology/1 - Passive information gattering.md",
-    "tools/wfuzz.md",
-    "metodology/Banner grabbing.md",
-    "concepts/Bind Shell.md",
-    "addons/Browser.md",
-    "tools/crunch.md",
-    "tools/maskprocessor.md",
-    "machines/rickdiculouslyeasy/Users.md",
     "machines/rickdiculouslyeasy",
     "metodology/Post-Exploitation Methodology.png",
     "machines/IMF",
-    "machines/pwnlab",
-    "tools/Untitled",
-    "machines/Stapler",
-    "machines",
-    "metodology/Penetration Testing Methodology.png",
-    "assets/Pasted image 20231226122748.png"
+    "metodology/Penetration Testing Methodology.png"
   ]
 }

@@ -1,7 +1,7 @@
 #linux 
 
 ```bash
-find / -perm 4000
+find / -perm /4000
 ```
 
 Search for writebles files
