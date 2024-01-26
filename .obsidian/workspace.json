@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilities/Compile C code.md",
+                "file": "tools/sqlmap.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steg",
+                "query": "hyd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utilities/Compile C code.md",
+                "file": "tools/sqlmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utilities/Compile C code.md",
+                "file": "tools/sqlmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utilities/Compile C code.md"
+                "file": "tools/sqlmap.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   },
   "active": "31c0333ede9d3a12",
   "lastOpenFiles": [
+    "tools/tcpdump.md",
+    "tools/sqlmap.md",
+    "tools/hydra.md",
+    "utilities/Compile C code.md",
     "addons/Browser.md",
     "machines/picklerick",
     "tools/steghide.md",
@@ -176,8 +180,6 @@
     "tools/shellter.md",
     "tools/searchesploit.md",
     "machines/bob/Walkthough.md",
-    "machines/bob/users.md",
-    "tools/netcat.md",
     "machines/bob/assets/Pasted image 20240121135242.png",
     "machines/bob/assets/Pasted image 20240121135036.png",
     "machines/galahad/assets",
@@ -188,9 +190,7 @@
     "Pasted image 20240121122608.png",
     "Pasted image 20240121122615.png",
     "machines/galahad/assets/Pasted image 20240121122604.png",
-    "machines/rickdiculouslyeasy/Reconnosainse.md",
     "machines/galahad",
-    "metodology/2 - Active information gattering.md",
     "machines/rickdiculouslyeasy",
     "metodology/Post-Exploitation Methodology.png",
     "machines/IMF",

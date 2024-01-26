@@ -10,3 +10,8 @@ This tool makes it possible for researchers and security consultants to show how
 ```bash
 hydra -l <user> -P <pass_file> <ip_address> <service>
 ```
+
+
+```bash
+hydra -l user -P /usr/share..... 'http-post-form://<ip_address>/<path>.php:name=^USER^&pass=^PASS^:<frecuent_message_in_web>'
+```
