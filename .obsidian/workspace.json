@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/sqlmap.md",
+                "file": "Tomorrow.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "utilities/php.md",
+                "file": "services/21 - FTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2ea1a711a84fdda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/smbmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a698f49c1467ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "utilities/Windows commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e2890de56f0db2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CERTS/ejptv2/192.168.100.55/Reconoissanse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebc34adfc2cd35cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/nmblookup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wireshar",
+                "query": "msfve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "5c199ef4cc0bd087",
@@ -98,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utilities/php.md",
+                "file": "Tomorrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "utilities/php.md",
+                "file": "Tomorrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utilities/php.md"
+                "file": "Tomorrow.md"
               }
             }
           }
@@ -157,56 +204,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b8bd5c8c1fcd1ba8",
+  "active": "31c0333ede9d3a12",
   "lastOpenFiles": [
-    "utilities/Find SUID files.md",
-    "utilities/php.md",
-    "utilities/Find if a file its been used anywhere.md",
-    "metodology/Privilege Escalation - Linux.md",
-    "metodology/Privilege Escalation - Windows.md",
-    "tools/tshark.md",
-    "tools/john the ripper.md",
-    "utilities/tty threatment.md",
-    "utilities/Transfer files via SSH.md",
-    "utilities/Python Server.md",
-    "utilities/Google Dorks.md",
-    "utilities/Compile C code.md",
-    "utilities/Bash script to scan ports.md",
-    "tools/msfvenom.md",
-    "metodology/Clearing Tracks - Linux.md",
-    "metodology/Clearing Tracks - Windows.md",
-    "vulnerabilities/Pivoting.md",
-    "utilities/Windows commands.md",
-    "metodology/Linux Password Hashes.md",
-    "Tomorrow.md",
-    "metodology/Dumping & Cracking NTLM hashes.md",
-    "metodology/Windows Password Hashes.md",
-    "tools/sqlmap.md",
-    "tools/tcpdump.md",
-    "tools/hydra.md",
     "addons/Browser.md",
+    "CERTS/ejptv2/192.168.100.51/Reconoissanse.md",
+    "CERTS/ejptv2/192.168.100.55/Reconoissanse.md",
+    "CERTS/ejptv2/192.168.100.52/Reconoissanse.md",
+    "CERTS/ejptv2/192.168.100.50/Reconoissanse.md",
+    "CERTS/ejptv2/192.168.100.1/Reconoissanse.md",
+    "CERTS/ejptv2/192.168.100.55/users.md",
+    "utilities/Windows commands.md",
+    "tools/smbmap.md",
+    "tools/smbclient.md",
+    "tools/psexec.py.md",
+    "tools/enum4linux.md",
+    "tools/crackmapexec.md",
+    "CERTS/ejptv2/192.168.100.67/Recnonoissanse.md",
+    "CERTS/ejptv2/192.168.100.1",
+    "CERTS/ejptv2/192.168.100.50/Users.md",
+    "CERTS/ejptv2/192.168.100.67/Untitled",
+    "vulnerabilities/Pivoting.md",
+    "CERTS/ejptv2/192.168.100.67",
+    "services/5985-5986 - WinRM.md",
+    "services/445 - SMB-SAMBA.md",
+    "tools/nmblookup.md",
+    "tools/rpcclient.md",
+    "CERTS/ejptv2/192.168.100.55",
+    "tools/searchesploit.md",
+    "tools/sendemail.md",
+    "tools/shellter.md",
+    "tools/sqlmap.md",
+    "tools/smtp-user-enum.md",
+    "metodology/Linux Password Hashes.md",
+    "metodology/Post-Exploitation Methodology.png",
+    "CERTS/ejptv2/192.168.100.52",
+    "CERTS/ejptv2/192.168.100.51",
+    "CERTS/ejptv2/192.168.100.50",
+    "CERTS/ejptv2",
+    "CERTS",
     "machines/picklerick",
-    "machines/basicpentesting",
-    "machines/vulnversity/assets",
     "machines/vulnversity/assets/Pasted image 20240123140719.png",
-    "machines/vulnversity",
     "machines/bob/assets/Pasted image 20240121135242.png",
     "machines/bob/assets/Pasted image 20240121135036.png",
-    "machines/galahad/assets",
-    "machines/bob/assets",
-    "machines/bob",
     "machines/galahad/assets/Pasted image 20240121125611.png",
     "machines/galahad/assets/Pasted image 20240121123132.png",
     "Pasted image 20240121122608.png",
     "Pasted image 20240121122615.png",
     "machines/galahad/assets/Pasted image 20240121122604.png",
-    "machines/galahad",
-    "machines/rickdiculouslyeasy",
-    "metodology/Post-Exploitation Methodology.png",
-    "machines/IMF",
     "metodology/Penetration Testing Methodology.png"
   ]
 }

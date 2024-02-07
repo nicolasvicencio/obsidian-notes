@@ -4,5 +4,5 @@ Enum4linux is a tool for enumerating information from Windows and Samba systems.
 
 ### Usage
 ```bash
-enum4linux -o <ip_address> -p <pass> -u <user>
+enum4linux -a <ip_address> -p <pass> -u <user>
 ```

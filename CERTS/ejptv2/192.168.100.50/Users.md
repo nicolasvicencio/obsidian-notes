@@ -1,0 +1,7 @@
+```
+admin:1011:aad3b435b51404eeaad3b435b51404ee:72f5cfa80f07819ccbcfb72feb9eb9b7:::
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:5c4d59391f656d5958dab124ffeabc20:::
+Guest:501:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c089c0:::
+mike:1009:aad3b435b51404eeaad3b435b51404ee:c7bad7d1cc2f3c69adea5ccb429234ad:::diamond
+vince:1010:aad3b435b51404eeaad3b435b51404ee:c9b30a86acaea990bf9fa6c35ac9dd92:::
+```
