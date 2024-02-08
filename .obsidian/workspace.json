@@ -4,79 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "c57fc774d7f6598e",
+        "id": "8f93ceafeaf76440",
         "type": "tabs",
         "children": [
           {
-            "id": "31c0333ede9d3a12",
+            "id": "9cb86b3cbc5d0c50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tomorrow.md",
+                "file": "TO-Do.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8bd5c8c1fcd1ba8",
+            "id": "2d7e1f8dbdc40cf1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "services/21 - FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2ea1a711a84fdda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/smbmap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a698f49c1467ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "utilities/Windows commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e2890de56f0db2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CERTS/ejptv2/192.168.100.55/Reconoissanse.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc34adfc2cd35cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tools/nmblookup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
         ]
@@ -129,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 272.5
   },
   "right": {
     "id": "5c199ef4cc0bd087",
@@ -145,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tomorrow.md",
+                "file": "TO-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tomorrow.md",
+                "file": "TO-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,31 +133,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tomorrow.md"
+                "file": "TO-Do.md"
               }
+            }
+          },
+          {
+            "id": "873b6932b7290698",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-sidebar-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 381.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "31c0333ede9d3a12",
+  "active": "873b6932b7290698",
   "lastOpenFiles": [
+    "(Every S,F,R,W,T,M,U) Work.md",
+    "(Every S,F,R,W,T,M,U) Read.md",
+    "(Every S,F,R,W,T,M,U) Morning-Routine.md",
+    "TO-Do.md",
+    "(Every W,F,S,R,T,M,U) Yoga-Meditate-Writting.md",
+    "(Every S,F,R,W,T,M,U) Night Routine.md",
+    "(Every S,F,R,W,T,M,U) Yoga-Meditate-Writing.md",
+    "(Every S,F,R,W,T,M,U) Yoga-Meditation.md",
+    "(Every S,F,R,W,T,M,U) Work1.md",
+    "(Every S,F,W,R,M,T,U) Study Languages.md",
+    "(Every S,F,R,W,T,M,U) Work Out.md",
+    "tools/smbmap.md",
+    "services/21 - FTP.md",
+    "tools/nmblookup.md",
+    "Calendar",
     "addons/Browser.md",
     "CERTS/ejptv2/192.168.100.51/Reconoissanse.md",
     "CERTS/ejptv2/192.168.100.55/Reconoissanse.md",
@@ -218,35 +188,20 @@
     "CERTS/ejptv2/192.168.100.1/Reconoissanse.md",
     "CERTS/ejptv2/192.168.100.55/users.md",
     "utilities/Windows commands.md",
-    "tools/smbmap.md",
     "tools/smbclient.md",
     "tools/psexec.py.md",
     "tools/enum4linux.md",
     "tools/crackmapexec.md",
-    "CERTS/ejptv2/192.168.100.67/Recnonoissanse.md",
     "CERTS/ejptv2/192.168.100.1",
-    "CERTS/ejptv2/192.168.100.50/Users.md",
     "CERTS/ejptv2/192.168.100.67/Untitled",
-    "vulnerabilities/Pivoting.md",
     "CERTS/ejptv2/192.168.100.67",
-    "services/5985-5986 - WinRM.md",
-    "services/445 - SMB-SAMBA.md",
-    "tools/nmblookup.md",
-    "tools/rpcclient.md",
     "CERTS/ejptv2/192.168.100.55",
-    "tools/searchesploit.md",
-    "tools/sendemail.md",
-    "tools/shellter.md",
-    "tools/sqlmap.md",
-    "tools/smtp-user-enum.md",
-    "metodology/Linux Password Hashes.md",
     "metodology/Post-Exploitation Methodology.png",
     "CERTS/ejptv2/192.168.100.52",
     "CERTS/ejptv2/192.168.100.51",
     "CERTS/ejptv2/192.168.100.50",
     "CERTS/ejptv2",
     "CERTS",
-    "machines/picklerick",
     "machines/vulnversity/assets/Pasted image 20240123140719.png",
     "machines/bob/assets/Pasted image 20240121135242.png",
     "machines/bob/assets/Pasted image 20240121135036.png",
