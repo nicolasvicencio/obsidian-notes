@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md",
+                "file": "GameDev/Arcana-souls/Time Tracker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa5bbbaec0987f3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDev/Arcana-souls/To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "327e252d861718a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDev/Arcana-souls/Ideas/Prison roguelike game.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md",
+                "file": "GameDev/Arcana-souls/Ideas/Prison roguelike game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md",
+                "file": "GameDev/Arcana-souls/Ideas/Prison roguelike game.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metodology/Linux Post exploitation modules.md"
+                "file": "GameDev/Arcana-souls/Ideas/Prison roguelike game.md"
               }
             }
           }
@@ -147,49 +172,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea2ac35594291dd2",
+  "active": "327e252d861718a3",
   "lastOpenFiles": [
-    "metodology/Linux Password Hashes.md",
-    "metodology/Privilege Escalation - Windows.md",
-    "metodology/Windows Password Hashes.md",
-    "metodology/Linux Post exploitation modules.md",
-    "vulnerabilities/Pivoting.md",
-    "tools/shred.md",
-    "metodology/Clearing Windows event logs.md",
-    "vulnerabilities/Keyloggin.md",
-    "services/3389 - RDP.md",
-    "services/8080 - Apache Tomcat.md",
-    "tools/xfreerdp.md",
-    "metodology/Persistence Windows.md",
-    "metodology/Privilege Escalation - Linux.md",
-    "addons/Browser.md",
-    "utilities/Windows commands.md",
-    "tools/meterpreter.md",
-    "services/445 - SMB-SAMBA.md",
-    "services/25 - SMTP.md",
-    "services/22 - SSH ( Secure Shell ).md",
-    "tools/nmap.md",
-    "services/137-138-139 - NetBios.md",
-    "services/23 - Telnet.md",
-    "services/80-443 - WebDav.md",
-    "services/5985-5986 - WinRM.md",
-    "tools/metasploit.md",
-    "tools/sendemail.md",
+    "GameDev/Arcana-souls/Ideas",
+    "GameDev/Arcana-souls/To-do.md",
+    "GameDev/Arcana-souls/Ideas/Prison roguelike game.md",
+    "GameDev/Arcana-souls/Time Tracker.md",
+    "GameDev/Arcana-souls",
+    "GameDev",
+    "Hacking/vulnerabilities/Windows Configuration Files.md",
+    "Hacking/vulnerabilities/ShellShock.md",
+    "Hacking/vulnerabilities/Pass-The-Hash.md",
+    "Hacking/vulnerabilities/Log4Shell.md",
+    "Hacking/vulnerabilities/Heartbleed.md",
+    "Hacking/vulnerabilities/EternalBlue.md",
+    "Hacking/vulnerabilities/ARP Poisoning.md",
+    "Hacking/vulnerabilities/ADS - Alternate Data Stream.md",
+    "Hacking/vulnerabilities",
+    "Hacking/utilities/Windows commands.md",
+    "Hacking/utilities/Python Server.md",
+    "Hacking/utilities/IP personal.md",
+    "Hacking/utilities/Google Dorks.md",
+    "Hacking/utilities/Find if a file its been used anywhere.md",
+    "Hacking/utilities/Find SUID files.md",
+    "Hacking/utilities/Bash script to scan ports.md",
+    "Hacking/utilities",
+    "Hacking/tools/wpscan.md",
+    "Hacking/tools/wmap.md",
+    "Hacking/tools/whois.md",
+    "Hacking/tools/whatweb.md",
+    "Hacking/tools/wfuzz.md",
+    "Hacking/tools/wafw00f.md",
+    "Hacking/tools/tshark.md",
+    "Hacking/tools",
+    "Hacking/services",
+    "Hacking/resources",
+    "Hacking/metodology/Scanning Network Mapping.png",
+    "Hacking/metodology/Penetration Testing Methodology.png",
+    "Hacking/metodology",
+    "Hacking/concepts",
+    "Hacking/assets/Pasted image 20231226122748.png",
+    "Hacking/assets/Pasted image 20231221104550.png",
+    "Hacking/assets/Pasted image 20231220201534.png",
+    "Hacking/assets/OSI model.png",
+    "Hacking/assets",
     "metodology/Penetration Testing Methodology.png",
     "assets/Pasted image 20231226122748.png",
     "metodology/Scanning Network Mapping.png",
-    "services",
-    "assets/Pasted image 20231221104550.png",
-    "assets/Pasted image 20231220201534.png",
-    "assets/OSI model.png",
-    "Pasted image 20231220201441.png",
-    "assets",
-    "metodology",
-    "tools",
-    "concepts",
-    "utilities",
-    "vulnerabilities",
-    "resources",
-    "addons"
+    "assets/Pasted image 20231221104550.png"
   ]
 }
